@@ -1,7 +1,7 @@
 # streaming-05-smart-smoker
 
 ## Laura Gagnon-Vos
-####05/31/2024
+#### 05/31/2024
 
 ## The Problem / Challenge To Solve
 Please read about the Smart Smoker system here: Smart Smoker
