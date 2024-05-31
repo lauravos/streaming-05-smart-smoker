@@ -60,4 +60,4 @@ AFTER earning credit for the assignment, THEN create and share additional custom
 
 
 ## Screenshot:
-![Screenshot showing producer](./screenshot.png)
+![Screenshot showing producer](./Screenshot.png)
