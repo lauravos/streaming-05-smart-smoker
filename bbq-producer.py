@@ -82,10 +82,10 @@ def main(hostName):
                 if Food_B_Temp:
                     Food_B_Temp = float(Food_B_Temp) 
                     Channel3_foodB = (timestamp, Food_B_Temp)
-                    send_message(ch,"02-food-B",Channel3_foodB)   
+                    send_message(ch,"03-food-B",Channel3_foodB)   
 
                 #read one value every half minute
-                time.sleep(30)
+                time.sleep(1)
             
 
     except pika.exceptions.AMQPConnectionError as e:
